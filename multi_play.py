@@ -1,7 +1,7 @@
 RUNS = 100
 
-import random_ai as p1
-import random_ai as p2
+import CPU.random_ai as p1
+import CPU.easy_ai as p2
 
 from base_game import *
 

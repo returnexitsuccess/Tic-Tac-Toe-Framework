@@ -1,5 +1,5 @@
-import CPU.hard_ai as p1
-import CPU.hard_ai as p2
+import Human.human as p1
+import CPU.easy_ai as p2
 
 from base_game import *
 
